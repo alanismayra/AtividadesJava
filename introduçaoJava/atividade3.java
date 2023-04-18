@@ -21,6 +21,7 @@ public class atividade3 {
 		System.out.println("Salário líquido:"+salarioLiquido);
 		
 
+		
 	}
 
 }

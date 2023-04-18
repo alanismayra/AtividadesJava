@@ -17,6 +17,7 @@ public class Atividade1 {
 		System.out.printf("Média Final: %.2f",media);
 		
 
+		
 	}
 
 }

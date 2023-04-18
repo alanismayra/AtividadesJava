@@ -22,6 +22,7 @@ public class atividadeGen5 {
 		n1 = leia.nextInt();
 		
 		
+		
 		switch(op) {
 		case 1:
 			System.out.println(n1*10.00+" reais");

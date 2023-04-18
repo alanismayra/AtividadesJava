@@ -20,6 +20,7 @@ public class while1 {
 			
 		}
             System.out.println("total de pessoas menores de 21 anos:"+idd21);
+           
             
 			
 			System.out.println("total de pessoas maiores de 50 anos:"+idd50);

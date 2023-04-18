@@ -19,7 +19,8 @@ public class atividadeGen4 {
 			if(palavra2.equalsIgnoreCase("ave")) {
 				if(palavra3.equalsIgnoreCase("carnívoro")) {
 					System.out.println("Águia");
-				
+	
+					
 				}else {
 				System.out.println("Pomba");
 				}

@@ -24,6 +24,8 @@ public class atividadeGen2 {
 			System.out.println("\nO número "+n+" é ímpar e positivo");
 		}
 
+		
 	}
+	
 
 }

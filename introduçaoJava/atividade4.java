@@ -19,4 +19,5 @@ public class atividade4 {
         System.out.println("Diferença:"+calculo);
 	}
 
+	
 }

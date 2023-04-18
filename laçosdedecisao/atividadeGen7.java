@@ -14,6 +14,7 @@ public class atividadeGen7 {
 		System.out.println("digite o segundo número:");
 		n2=leia.nextFloat();
 		
+		
 		System.out.println("Código - operação");
 		System.out.println("1 - soma");
 		System.out.println("2 - subtração");

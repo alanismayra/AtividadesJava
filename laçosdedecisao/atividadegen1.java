@@ -15,6 +15,7 @@ public class atividadegen1 {
 		System.out.println("Entre com número C:");
 		c = leia.nextInt();
 		
+		
 		soma = a+b;
 		if (soma>c) {
 			System.out.println("\nA soma de A+B é Maior do que C");

@@ -14,6 +14,7 @@ public class atividade_1 {
 		 novo = (salario+abono);
 		 System.out.println("Novo salário:"+novo);
 		 
+		 
 	}
 
 }

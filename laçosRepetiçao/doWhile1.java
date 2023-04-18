@@ -19,6 +19,7 @@ public class doWhile1 {
 		System.out.println("a soma dos números positivos é:"+soma);
 		
 
+		
 	}
 
 }

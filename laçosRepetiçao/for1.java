@@ -21,6 +21,8 @@ public class for1 {
 				System.out.println("Intervalo inválido");
 			}
 			
+	
+			
 		}
 		
 		System.out.println("Números multiplos de 3 e 5 no intervalo de "+n1+" a"+n2+":");
